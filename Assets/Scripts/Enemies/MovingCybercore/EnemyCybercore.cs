@@ -36,8 +36,8 @@ public class EnemyCybercore : BaseEnemy
 
         spriteRend = GetComponent<SpriteRenderer>();
         red = spriteRend.color.r;
-        enemyHealth = 250;
-        enemyMaxHealth = 250;
+        enemyHealth = 125;
+        enemyMaxHealth = 125;
         enemyCanMove = true;
         enemyCanDropLoot = true;
         enemyMovementSpeed = 1;

@@ -29,8 +29,8 @@ public class EnemyCrystal : BaseEnemy
     private bool playerInRange;
     void Start()
     {
-        enemyHealth = 500;
-        enemyMaxHealth = 500;
+        enemyHealth = 150;
+        enemyMaxHealth = 150;
         enemyCanMove = false;
         enemyCanDropLoot = true;
         enemyMovementSpeed = 0;
