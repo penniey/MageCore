@@ -33,10 +33,12 @@ Heals you for a flat amount of the damage.
 Has the chance to critical strike dealing more than double the damage.
 
 ## **Keybinds**
-![image](https://github.com/user-attachments/assets/d5db51c0-1c71-41ae-9da0-61356da40395)
 Shoot - left click
 Change weapon - E
 Reload - R
 Pause/Menu - Tab
 Dash - Space
 vector2 input = mouse axis
+
+![image](https://github.com/user-attachments/assets/d5db51c0-1c71-41ae-9da0-61356da40395)
+
