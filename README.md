@@ -5,7 +5,7 @@
 ## **History of Production**
 The game was made during my first year studying game development and design at Södertörns Högskola.
 The game took around three weeks to make, mainly due to a loose schedule.
-The game was made with a couple of classmates and isn't a solo dev piece however all the code and vfx are made by and one more.
+The game was made with a couple of classmates and isn't a solo dev piece. However all the code and vfx are made by me and one more.
 
 ![image](https://github.com/user-attachments/assets/91221ebc-6fbc-49c8-a2f7-c9fa35c8f225)
 
